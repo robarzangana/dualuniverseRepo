@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=XbXOhYwyRh4&t=0s
 
 You can decide the width, height, color, angle and more of all shapes/texts that you add on the screen. 
 Animated functions: All animated functions can be used to create dynamic elements on the screen. You can make elements rotate, make elements move in desired direction, change color of element and more.
+
 Current available functions:
 
 addText()                             -- Simply add a text on the screen
