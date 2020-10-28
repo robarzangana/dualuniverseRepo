@@ -1,4 +1,5 @@
-# dualuniverseRepo
+# Screen++
+Creator: JudgementXY
 IGN: JudgementXYN
 
 Screen++ is a program written for the game Dual Universe. Its purpose is enable the ability to add animations on screens easily. You can also add images to your screens with screen++.
